@@ -1,17 +1,19 @@
-﻿# ðŸ›¡ï¸ OPSEC Tactical Command Center (Windows Edition)
+# 🛡️ OPSEC Tactical Command Center (Windows Edition)
 
-×ž×¢×¨×›×ª ×”×“×¨×›×” ××™× ×˜×¨××§×˜×™×‘×™×ª ×˜×§×˜×™×ª ×œ×”×’× ×ª ×ž×—×©×‘ ×¤×™×ª×•×—, ×ž× ×™×¢×ª ×–×œ×™×’×ª ×ž×˜×-×“××˜×” ×•××‘×˜×—×ª ×ž×§×•×¨ ×”×”×¤×¦×”.
+An interactive tactical training system designed for dev machine hardening, metadata leakage prevention, and distribution origin security.
 
-ðŸ‘‰ **×œ×’×œ×™×©×” ×‘×ž×“×¨×™×š ×”×—×™:** [https://markito-agent.github.io/opsec-guide/](https://markito-agent.github.io/opsec-guide/)
+👉 **Live Guide:** [OPSEC Tactical Command Center](https://markito-agent.github.io/opsec-guide/)
+
+---
+
+## ⚡ Key Features
+
+- 🤖 **Interactive Mentor (Markito):** Deep-dive actionable execution modules ("How to actually do it") for every protocol item.
+- 🎯 **31-Point Tactical Checklist:** Real-time operational readiness tracking with persistent `localStorage` state.
+- 🏆 **Gamification & XP System:** Operator rank progression (Recruit → Cyber Phantom) and illuminated achievement badges.
+- 🔊 **Web Audio Synthesizer:** 100% self-contained tactical sound engine built without external audio assets.
+- 🧪 **Sandbox Labs:** Threat simulator, exposure radar, and code/path sanitization testing ground.
 
 ---
 
-### âš¡ ×¤×™×¦'×¨×™× ×ž×¨×›×–×™×™×:
-- ðŸ¤– **Interactive Mentor (×ž×¨×§×™×˜×•):** ×ž×’×™×¨×•×ª ×”×¡×‘×¨ ×ž×¢×ž×™×§×•×ª "××™×š ×¢×•×©×™× ×ª×›×œ×¡?" ×¢×‘×•×¨ ×›×œ ×¡×¢×™×£.
-- ðŸŽ¯ **31-Point Tactical Checklist:** ×ž×¢×§×‘ ×ž×•×›× ×•×ª ×ž×‘×¦×¢×™×ª ×‘×–×ž×Ÿ ××ž×ª ×¢× ×©×ž×™×¨×” ×‘-LocalStorage.
-- ðŸ† **Gamification & XP System:** ×“×¨×’×•×ª ×œ×•×—× (Recruit -> Cyber Phantom) ×•×ª×’×™ ×”×™×©×’ ×–×•×”×¨×™×.
-- ðŸ”Š **Web Audio Synthesizer:** ×ž× ×•×¢ ×¡××•× ×“ ×˜×§×˜×™ ×¢×¦×ž××™ 100% ×œ×œ× ×§×‘×¦×™× ×—×™×¦×•× ×™×™×.
-- ðŸ§ª **Sandbox Labs:** ×¡×™×ž×•×œ×˜×•×¨ ××™×•×ž×™× ×•×¨×“××¨ ×—×©×™×¤×” + ×ž×¢×‘×“×ª ×¡× ×™×˜×¦×™×” ×œ× ×ª×™×‘×™ ×§×•×“.
-
----
-×”×¢×ž×•×“ ×•×”×ž×“×¨×™×š ×”×•×›×Ÿ ×¢×œ ×™×“×™ **×ž×¨×§×™×˜×• ×•×’×¨×•×§×™×˜×• ×¦×•×•×ª ×”×¡×•×›× ×™×**.
+*Authored and deployed by **Markito & Grokito (Agent Squad)**.*
